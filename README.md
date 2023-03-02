@@ -2,8 +2,8 @@
 
 <!--
 **mutlutokk/mutlutokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
 
 - 🔭 I am passionate about coding and learning new things. 
 - 🌱 I’m currently learning everything about Frontend
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/mutlutokk
 [gmail]: mailto:mutlutokk@gmail.com
-
+</br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutlutokk&show_icons=true&theme=radical&locale=en&layout=compact" alt="mutlutokk" /></p>
--->
+
